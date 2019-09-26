@@ -4,6 +4,8 @@
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.4.3",
+    "@material-ui/icons": "^4.4.3",
+    "@material-ui/styles": "^4.4.3",
     "axois": "0.0.1-security",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
